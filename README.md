@@ -1,6 +1,9 @@
 # Machine Learning Engineer Nanodegree
 ## Project: Capstone Proposal and Capstone Project
 
+# Summary
+Machine Learning Engineer Nanodegree Capstone project for Udacity.   Project took 5 years of headline information from a corpus of financial news and using LSA and Semantic analysis attempted to predict the next days market closed.  Used Time Series analysis and a variety of models including RandomForest and SVC.   Not all folders and data are submitted to gitHub.  However, all code is included and can be used to re-scrape and pull original data sets from Archive.org. 
+
 # Versions
 Code primarily run with Python 2.7.13 however `Evaluate_Data.py` also run with Python 3.5.4 when *MemoryError* encountered. 
 
